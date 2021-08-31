@@ -1,5 +1,11 @@
 # DataControlwithTime(distance)
 
+
+
+https://user-images.githubusercontent.com/63625631/131453605-c02e4d51-d535-423d-8326-6176742a3b3b.mp4
+
+
+
 This chapter illustrate how to control the data based on the timeline. After knowing the lerp/bias/gain extra based on the data of one frame, how to control those data based on time?
 
 popnetwork example video:
